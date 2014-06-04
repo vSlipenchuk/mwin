@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1401887617 source:/mnt/c/prj/mwin/mwin/main.c
+	<stdio.h>
+	<stdlib.h>
+	"mwin.h"
+
+1401860575 /mnt/c/prj/mwin/mwin/mwin.h
+
+1401860675 source:/mnt/c/prj/mwin/mwin/mwinOnX.c
+	"mwin.h"
+	<X11/Xlib.h>
+	<stdio.h>
+	<stdlib.h>
+
+1401875421 source:/mnt/c/prj/mwin/mwin/mwinOnStm32.c
+	"mwin.h"
+
